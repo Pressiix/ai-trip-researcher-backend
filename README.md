@@ -13,7 +13,7 @@ This is a project that I personally researched to create an API and service for 
 3. Search and make recommendations about things I'm interested in and related to that place, such as street foods and art toys.
 4. Recommend interesting accommodation names in that city.
 5. Recommend festivals that will be held during my travel period.
-6. Recommend places that are highlights and are worth visiting in that city.
+6. Recommend places that are highlights and are worth visiting in that city (Images and city names).
 
 ## Tech Stack
 - Python 3
