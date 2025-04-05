@@ -15,6 +15,16 @@ This is a project that I personally researched to create an API and service for 
 5. Recommend festivals that will be held during my travel period.
 6. Recommend places that are highlights and are worth visiting in that city.
 
+## Tech Stack
+- Python 3
+- Poetry
+- Virtual Environment
+- Flask Framework (API)
+- CrewAI Framework (Multi AI Agents Framework)
+- Langchain
+- LiteLLM (Chat with multiple LLM like OpenAI, Gemini, Claude and etc...)
+- Langfuse (LLM Chat tracing log)
+
 ## Setup
 1. Create file `.env` and add the same variables as the `.env.example` file
 
