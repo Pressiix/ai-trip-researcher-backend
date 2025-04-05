@@ -22,8 +22,9 @@ This is a project that I personally researched to create an API and service for 
 - Flask Framework (API)
 - CrewAI Framework (Multi AI Agents Framework)
 - Langchain
-- LiteLLM (Chat with multiple LLM like OpenAI, Gemini, Claude and etc...)
+- ChatLiteLLM (Chat with multiple LLM like OpenAI, Gemini, Claude and etc...)
 - Langfuse (LLM Chat tracing log)
+- LiteLLM Proxy (Rate limit and Cost controlling)
 
 ## Setup
 1. Create file `.env` and add the same variables as the `.env.example` file
