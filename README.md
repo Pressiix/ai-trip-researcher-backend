@@ -1,3 +1,10 @@
+<div align="center">
+
+![Logo of CrewAI](./docs/crewai_logo.png)
+
+
+</div>
+
 ## Introduction for Multi AI Trip Planner 
 
 This is a project that I personally researched to create an API and service for using multiple AI agents to work together to search information from the internet to help me plan my trip to various places. I just tell them the name of my origin city and destination city, what interests me when I travel, and the travel period. All the AIs will help me search and recommend travel plans for me, such as:
