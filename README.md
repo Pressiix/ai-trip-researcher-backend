@@ -23,7 +23,7 @@ This is a project that I personally researched to create an API and service for 
 - CrewAI Framework (Multi AI Agents Framework)
 - Langchain
 - ChatLiteLLM (Chat with multiple LLM like OpenAI, Gemini, Claude and etc...)
-- Langfuse (LLM Chat tracing log)
+- Langfuse (LLM Chat tracing log & Dashboard)
 - LiteLLM Proxy (Rate limit and Cost controlling)
 
 ## Setup
