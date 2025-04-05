@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo of CrewAI](./docs/crewai_logo.png)
+![Logo of CrewAI](./crewai_logo.png)
 
 
 </div>
